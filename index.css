@@ -11,7 +11,7 @@ body {
   display: grid;
   /*rows / columns*/
   /*grid-template: 1fr 1fr 1fr 1fr / 1fr 1fr 1fr;*/
-  /*equals line 13*/
+  /*line 15 equals line 13*/
   grid-template: repeat(4, 1fr) / repeat(3, 1fr);
 
 }
