@@ -29,4 +29,5 @@ body {
   /*grid-area: header-start / 1 / header-end / 4;*/
   height: 50%;
   width: 50%;
+  justify-content: center;
 }
